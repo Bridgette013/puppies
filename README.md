@@ -19,11 +19,13 @@ Search the top of `index.html` for the `PLACEHOLDER CHECKLIST` comment, then
 search `EDIT:` to jump to each one.
 
 1. **Email domain** — currently `hustlinhuskies@example.com`
-2. **Prices** — currently "Text for pricing", no numbers anywhere
-3. **Deposit amount** — currently `$XXX`
-4. **Health & paperwork block** — all seven lines (vet, shots, deworming,
-   microchip, registration type, health guarantee) are marked PLACEHOLDER
-5. **Per-pup details** — weights, eye color, markings, temperament are not
+2. **Shot + deworming specifics** — which vaccines, dates given, next booster
+   due, dewormer product and dates
+3. **Vet exam** — has a vet seen them at all? clinic + date, or say none yet
+4. **Microchip** — chipped or not, and does it transfer at pickup
+5. **Papers** — registration type, or state plainly that there are none
+6. **Go-home kit** contents
+7. **Per-pup details** — weights, eye color, markings, temperament are not
    on the cards; add them per pup if you get them
 
 ## Confirmed (do not change)
@@ -37,3 +39,6 @@ search `EDIT:` to jump to each one.
 | Whelped | July 18, 2026 |
 | Ready | September 12, 2026 (8 weeks) |
 | Pups | Lucy (F), Chip (M), Frankie (M), Eddie (M) |
+| Price | $800 |
+| Deposit | $300, applies to the price |
+| Status | Foster pups — shots and deworming given in-home by the foster, not a clinic |
