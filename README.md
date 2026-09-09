@@ -18,12 +18,11 @@ The page then lives at `https://bridgette013.github.io/puppies/`.
 Search the top of `index.html` for the `PLACEHOLDER CHECKLIST` comment, then
 search `EDIT:` to jump to each one.
 
-1. **Email domain** — currently `hustlinhuskies@example.com`
-2. **Shot + deworming specifics** — which vaccines, next booster due, deworm dates
-3. **Microchip** — chipped or not, and does it transfer at pickup
-4. **Papers** — registration type, or delete that line
-5. **Go-home kit** contents
-6. **Per-pup details** — weights, eye color, markings, temperament are not
+1. **Shot + deworming specifics** — which vaccines, next booster due, deworm dates
+2. **Microchip** — chipped or not, and does it transfer at pickup
+3. **Papers** — registration type, or delete that line
+4. **Go-home kit** contents
+5. **Per-pup details** — weights, eye color, markings, temperament are not
    on the cards; add them per pup if you get them
 
 ## Kept off the page on purpose
@@ -41,6 +40,7 @@ these.
 | Kennel | Hustlin' Huskies |
 | Breed | Siberian Husky |
 | Phone | 623-217-1039 |
+| Email | hustlinhuskies@vvvdigitals.com |
 | Location | Glendale, AZ |
 | Whelped | July 18, 2026 |
 | Ready | September 12, 2026 (8 weeks) |
