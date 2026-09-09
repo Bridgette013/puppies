@@ -8,22 +8,32 @@ on any host, or open it straight off a thumb drive.
 `img/` holds the full-size originals (EXIF stripped) in case you ever want
 to serve real image files instead of the embedded copies.
 
-## Publishing it on GitHub Pages
+**Live at https://bridgette013.github.io/puppies/** — GitHub Pages, deployed
+from `main` / root.
 
-Settings → Pages → Source: **Deploy from a branch** → `main` / `/ (root)`.
-The page then lives at `https://bridgette013.github.io/puppies/`.
+## Reserving a pup — Stripe deposits
 
-## Not finished — still needed
+Each pup card has a **Reserve** button wired to a live Stripe Payment Link
+that collects a **$300 deposit** (applied toward the $800 price). The links
+live in the VVV Digitals / StoreKeyed Stripe account, and each one is capped
+to a single payment — so once a pup's deposit is paid, that link closes
+itself and can't be paid twice.
 
-Search the top of `index.html` for the `PLACEHOLDER CHECKLIST` comment, then
-search `EDIT:` to jump to each one.
+**To mark a pup reserved on the page:** open `index.html`, find that pup's
+card (search for the name, e.g. `Lucy`), and change its
+`<li class="pup" data-status="available" …>` to `data-status="sold"`. That
+grays the badge to **Reserved** and turns the button into a non-clickable
+**Spoken for**. Commit and push to update the live site.
 
-1. **Which vaccine** specifically was given at 6 weeks — the page just says
-   "first round"
-2. **Microchip** — chipped or not, and does it transfer at pickup
-3. **Go-home kit** contents
-4. **Per-pup details** — weights, eye color, markings, temperament are not
-   on the cards; add them per pup if you get them
+## Optional additions
+
+Not required — the page is complete as-is — but you can add these if you get
+the details:
+
+1. **Which vaccine** specifically was given at 6 weeks (the page just says
+   "first round")
+2. **Per-pup details** — weights, eye color, markings, temperament are not on
+   the cards; add them per pup if you want
 
 ## Kept off the page on purpose
 
@@ -38,6 +48,7 @@ these.
 | | |
 |---|---|
 | Kennel | Hustlin' Huskies |
+| Breeders | Britne & Chevelle |
 | Breed | Siberian Husky |
 | Phone | 623-217-1039 |
 | Email | hustlinhuskies@vvvdigitals.com |
