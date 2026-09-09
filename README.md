@@ -20,7 +20,8 @@ search `EDIT:` to jump to each one.
 
 1. **Shot + deworming specifics** — which vaccines, next booster due, deworm dates
 2. **Microchip** — chipped or not, and does it transfer at pickup
-3. **Papers** — registration type, or delete that line
+3. **Papers** — parents' paperwork is being obtained from the owner; add the
+   registry name and numbers to the page once it lands
 4. **Go-home kit** contents
 5. **Per-pup details** — weights, eye color, markings, temperament are not
    on the cards; add them per pup if you get them
