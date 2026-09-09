@@ -19,14 +19,20 @@ Search the top of `index.html` for the `PLACEHOLDER CHECKLIST` comment, then
 search `EDIT:` to jump to each one.
 
 1. **Email domain** — currently `hustlinhuskies@example.com`
-2. **Shot + deworming specifics** — which vaccines, dates given, next booster
-   due, dewormer product and dates
-3. **Vet exam** — has a vet seen them at all? clinic + date, or say none yet
-4. **Microchip** — chipped or not, and does it transfer at pickup
-5. **Papers** — registration type, or state plainly that there are none
-6. **Go-home kit** contents
-7. **Per-pup details** — weights, eye color, markings, temperament are not
+2. **Shot + deworming specifics** — which vaccines, next booster due, deworm dates
+3. **Microchip** — chipped or not, and does it transfer at pickup
+4. **Papers** — registration type, or delete that line
+5. **Go-home kit** contents
+6. **Per-pup details** — weights, eye color, markings, temperament are not
    on the cards; add them per pup if you get them
+
+## Kept off the page on purpose
+
+Covered in person instead: that these are foster pups, that shots and
+deworming were given in-home rather than at a clinic, that rabies has not been
+given, and the breed-specific warnings (noise, escaping, recall, shedding,
+exercise needs). The page states nothing false — it just doesn't volunteer
+these.
 
 ## Confirmed (do not change)
 
@@ -41,4 +47,4 @@ search `EDIT:` to jump to each one.
 | Pups | Lucy (F), Chip (M), Frankie (M), Eddie (M) |
 | Price | $800 |
 | Deposit | $300, applies to the price |
-| Status | Foster pups — shots and deworming given in-home by the foster, not a clinic |
+| Shots + deworming | Given, on schedule |
