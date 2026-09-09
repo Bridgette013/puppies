@@ -18,12 +18,11 @@ The page then lives at `https://bridgette013.github.io/puppies/`.
 Search the top of `index.html` for the `PLACEHOLDER CHECKLIST` comment, then
 search `EDIT:` to jump to each one.
 
-1. **Shot + deworming specifics** — which vaccines, next booster due, deworm dates
+1. **Which vaccine** specifically was given at 6 weeks — the page just says
+   "first round"
 2. **Microchip** — chipped or not, and does it transfer at pickup
-3. **Papers** — parents' paperwork is being obtained from the owner; add the
-   registry name and numbers to the page once it lands
-4. **Go-home kit** contents
-5. **Per-pup details** — weights, eye color, markings, temperament are not
+3. **Go-home kit** contents
+4. **Per-pup details** — weights, eye color, markings, temperament are not
    on the cards; add them per pup if you get them
 
 ## Kept off the page on purpose
@@ -48,4 +47,6 @@ these.
 | Pups | Lucy (F), Chip (M), Frankie (M), Eddie (M) |
 | Price | $800 |
 | Deposit | $300, applies to the price |
-| Shots + deworming | Given, on schedule |
+| Vaccines | First round at 6 weeks — Aug 29, 2026 |
+| Deworming | Aug 25 and Sept 8, 2026 |
+| Papers | Parents' paperwork being obtained from the owner |
